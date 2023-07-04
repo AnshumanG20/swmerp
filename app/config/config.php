@@ -1,10 +1,10 @@
 <?php
   // DB Params
   define('SQL_NAME', 'pgsql');
-  define('DB_HOST', '192.168.0.202');
-  define('DB_PORT', '5432');
+  define('DB_HOST', 'localhost');
+  define('DB_PORT', '5433');
   define('DB_USER', 'postgres');
-  define('DB_PASS', 'Secure@2023?');
+  define('DB_PASS', '12345');
   define('DB_NAME', 'swm_erp');
  
 
